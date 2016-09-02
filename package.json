@@ -1,0 +1,23 @@
+{
+  "name": "mypage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"liveload",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaynoldKim/makingHtmlPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaynoldKim/makingHtmlPage/issues"
+  },
+  "homepage": "https://github.com/RaynoldKim/makingHtmlPage#readme",
+  "devDependencies": {
+    "liveload": "^0.3.3"
+  }
+}
